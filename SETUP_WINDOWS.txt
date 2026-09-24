@@ -1,0 +1,41 @@
+PERSONAL TASK MANAGER - WINDOWS QUICK SETUP
+
+1. Install PHP 8.3+, Composer, and MySQL/XAMPP.
+2. Create a MySQL database named:
+   personal_task_manager
+
+3. Open PowerShell in this project folder.
+
+4. Run:
+   composer install
+
+5. Create .env:
+   Copy-Item .env.example .env
+
+6. Generate key:
+   php artisan key:generate
+
+7. Open .env and verify:
+   DB_CONNECTION=mysql
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE=personal_task_manager
+   DB_USERNAME=root
+   DB_PASSWORD=
+
+8. Run:
+   php artisan migrate
+
+9. Optional sample data:
+   php artisan db:seed
+
+10. Start:
+    php artisan serve
+
+11. Visit:
+    http://127.0.0.1:8000
+
+For GitHub:
+- Do NOT upload .env
+- Upload the project files and README.md
+- Make the repository Public
