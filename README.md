@@ -1,7 +1,7 @@
 Project Code: WST21-PM-2026-SF  
 Student Name: Anne Hyacinth L. Del Rosario  
 Course & Year Level: BSIT-2  
-Database Used:** MySQL  
+Database Used: MySQL  
 
 Features:
 
