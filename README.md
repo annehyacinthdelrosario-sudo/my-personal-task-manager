@@ -35,7 +35,7 @@ MySQL
 <img width="1240" height="1133" alt="Screenshot_28-9-2026_23011_127 0 0 1" src="https://github.com/user-attachments/assets/28882ddd-437f-460c-975f-07bdaeef59b9" />
 
 - Add Task
-<img width="1240" height="1133" alt="Screenshot_28-9-2026_23011_127 0 0 1" src="https://github.com/user-attachments/assets/1fc68349-3042-498d-9a39-c678d9dcfb03" />
+<img width="1240" height="772" alt="Screenshot_28-9-2026_225142_127 0 0 1" src="https://github.com/user-attachments/assets/664eae1e-e9b2-44a9-a8aa-13ffc861a403" />
 <img width="1240" height="1127" alt="Screenshot_28-9-2026_22521_127 0 0 1" src="https://github.com/user-attachments/assets/1bf5c821-07ef-4da4-add5-6206090e1e54" />
 
 - Edit Task
