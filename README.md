@@ -23,7 +23,7 @@ MySQL
 - Light/Dark Mode
 
 ## Screenshots
--User Registration
+- User Registration
 <img width="1240" height="764" alt="Screenshot_28-9-2026_224915_127 0 0 1" src="https://github.com/user-attachments/assets/8d9f1f7e-cbfc-4965-8e74-03227660d86d" />
 
 - User Login
